@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola a todos, bienvenidos a la Comunidad Ethereum Chile! 👋
+Somos una comunidad de entusiastas de la tecnología blockchain y Ethereum en particular, enfocados en difundir el conocimiento y fomentar el desarrollo de contratos inteligentes en Chile.
 
-<!--
-**ethereumchile/ethereumchile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En nuestro GitHub encontrarás proyectos y recursos relacionados con Ethereum y la tecnología blockchain. ¡Siéntete libre de explorar y colaborar en nuestros proyectos abiertos!
 
-Here are some ideas to get you started:
+¿Te interesa aprender más sobre Ethereum y los contratos inteligentes? Únete a nuestra comunidad y participa en nuestros talleres y eventos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Cómo colaborar
+Si estás interesado en colaborar con nosotros, no dudes en contactarnos a través de nuestras redes sociales. También puedes contribuir a nuestros proyectos abiertos en este GitHub.
+
+# Redes sociales
+- Twitter: [@ethereumchile](https://twitter.com/ethereumchile)
+- Discord: [Comunidad Ethereum Chile](https://discord.gg/95hrhDxP)
+
+¡Nos vemos en la comunidad! ⚡️
