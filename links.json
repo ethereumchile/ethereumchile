@@ -1,0 +1,32 @@
+[
+	{
+		"id": "link3",
+		"label": "Comprar Ethereum en Buda.com",
+		"url": "https://buda.com/registro?rf=XGQ53MUET",
+    "icon": "fa-brands fa-ethereum"
+	},
+	{
+		"id": "link4",
+		"label": "Comprar Ethereum en Binance.com",
+		"url": "https://accounts.binance.com/register?ref=L38J4THB",
+    "icon": "fa-brands fa-ethereum"
+	},
+	{
+		"id": "link5",
+		"label": "Discord oficial de la comunidad",
+		"url": "https://discord.gg/95hrhDxP",
+    "icon": "fab fa-discord"
+	},
+	{
+		"id": "link1",
+		"label": "Síguenos en Facebook",
+		"url": "https://www.facebook.com/ethereumchile/",
+    "icon": "fab fa-facebook"
+	},
+	{
+		"id": "link2",
+		"label": "Github Ethereum Chile",
+		"url": "https://github.com/ethereumchile",
+    "icon": "fab fa-github"
+	}
+]
