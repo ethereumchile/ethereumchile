@@ -13,3 +13,5 @@ Si estás interesado en colaborar con nosotros, no dudes en contactarnos a trav�
 - Discord: [Comunidad Ethereum Chile](https://discord.gg/95hrhDxP)
 
 ¡Nos vemos en la comunidad! ⚡️
+
+![@ethereumchile Github Stats](https://github-readme-stats.vercel.app/api?username=ethereumchile&count_private=true&show_icons=true&theme=dark)
