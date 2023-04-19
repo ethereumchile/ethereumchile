@@ -3,6 +3,7 @@
     "author": "Jesus S.",
     "date": "23 de Enero de 2023",
     "id": "post4",
+    "categories": ["Ethereum", "Staking"],
     "title": "Qué es Staking: una forma de obtener ganancias ahorrando criptomonedas",
     "resume": "El llamado Staking está ganando cada vez mayor importancia entre los diversos grupos de inversores financieros. Representa una alternativa más simple y menos ardua a la minería de las criptomonedas. Los inversores ven en el Staking la posibilidad de utilizar sus criptomonedas para generar una renta adicional...",
     "url": "https://economia3.com/que-es-staking/"
@@ -11,6 +12,7 @@
     "author": "Javier Guajardo",
     "date": "16 de Abril de 2018",
     "id": "post2",
+    "categories": ["Solidity"],
     "title": "Código: Red Social Descentralizada",
     "resume": "Crear tu propia red descentralizada basada en Ethereum con este repositorio de código abierto. Entre algunas de sus funciones: Crear cuenta, Agregar amigos, Aprobar solicitudes, Publicar en el perfil de un amigo, Dar \"Me gusta\" a las publicaciones, Dar \"No me gusta\" a las publicaciones.",
     "url": "https://github.com/ethereumchile/decentralized-social-network"
@@ -19,6 +21,7 @@
     "author": "Javier Guajardo",
     "date": "9 de Diciembre de 2021",
     "id": "post3",
+    "categories": ["Solidity"],
     "title": "¿Quieres aprender Solidity con ejemplos?",
     "resume": "Con este repositorio de la comunidad Ethereum Chile podrás interiorizarte en los conceptos básicos para comenzar a programar tus primeros contratos inteligentes.",
     "url": "https://github.com/ethereumchile/learn-by-doing"
@@ -27,6 +30,7 @@
     "author": "Javier Guajardo",
     "date": "10 de Octubre de 2020",
     "id": "post1",
+    "categories": ["Exchanges"],
     "title": "Comprar Ethereum en Buda.com",
     "resume": "La manera más rápida de comprar crypto en Chile es a través de Buda.com. En este exchange podrás intercambiar Ethereum, Bitcoin, Bitcoin Cash o Litecoin con Peso Chileno, Sol Peruano, Peso Colombiano o Peso Argentino",
     "url": "https://buda.com/registro?rf=XGQ53MUET"
