@@ -1,23 +1,26 @@
 [
   {
+    "slug": "ganar-dinero-extra-con-liquidity-pooling-yield-farming",
     "author": "Ethereum Chile",
     "date": "20 de Abril de 2023",
     "id": "post5",
     "categories": ["Exchanges"],
-    "title": "Ganar dinero extra con Liquidity Pool y Yield Farming",
-    "resume": "Con estas alternativas al Staking en Ethereum podrás ahorrar y generar un poco de dinero extra sin mucho esfuerzo! En el siguiente post te explicamos las diferencias entre Liquidity Pool y Yield Farming. Veremos un poco más en detalle en qué consiste cada una y dónde podemos empezar a ponerlas en práctica",
-    "url": "https://github.com/ethereumchile/ethereumchile/wiki/Ganar-dinero-extra-con-Liquidity-Pool-y-Yield-Farming"
+    "title": "Ganar dinero extra con Liquidity Pooling y Yield Farming",
+    "resume": "Con estas alternativas al Staking en Ethereum podrás ahorrar y generar un poco de dinero extra sin mucho esfuerzo! En el siguiente post te explicamos las diferencias entre Liquidity Pooling y Yield Farming. Veremos un poco más en detalle en qué consiste cada una y dónde podemos empezar a ponerlas en práctica",
+    "url": "https://github.com/ethereumchile/ethereumchile/wiki/Ganar-dinero-extra-con-Liquidity-Pooling-y-Yield-Farming"
   },
   {
+    "slug": "que-es-staking",
     "author": "Jesus S.",
     "date": "23 de Enero de 2023",
     "id": "post4",
-    "categories": ["Ethereum", "Staking"],
+    "categories": ["Exchanges"],
     "title": "Qué es Staking: una forma de obtener ganancias ahorrando criptomonedas",
     "resume": "El llamado Staking está ganando cada vez mayor importancia entre los diversos grupos de inversores financieros. Representa una alternativa más simple y menos ardua a la minería de las criptomonedas. Los inversores ven en el Staking la posibilidad de utilizar sus criptomonedas para generar una renta adicional...",
     "url": "https://economia3.com/que-es-staking/"
   },
   {
+    "slug": "codigo-solidity-red-social-descentralizada",
     "author": "Javier Guajardo",
     "date": "16 de Abril de 2018",
     "id": "post2",
@@ -27,6 +30,7 @@
     "url": "https://github.com/ethereumchile/decentralized-social-network"
   },
   {
+    "slug": "aprender-solidity-con-ejemplos",
     "author": "Javier Guajardo",
     "date": "9 de Diciembre de 2021",
     "id": "post3",
@@ -36,6 +40,7 @@
     "url": "https://github.com/ethereumchile/learn-by-doing"
   },
   {
+    "slug": "comprar-ethereum-en-buda-com",
     "author": "Javier Guajardo",
     "date": "10 de Octubre de 2020",
     "id": "post1",
