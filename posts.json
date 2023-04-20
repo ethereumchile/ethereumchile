@@ -1,13 +1,23 @@
 [
   {
-    "slug": "ganar-dinero-extra-con-liquidity-pooling-yield-farming",
+    "slug": "guia-completa-programacion-solidity",
+    "author": "Leandro Labiano",
+    "date": "20 de Abril de 2023",
+    "id": "post6",
+    "categories": ["Solidity"],
+    "title": "Guía para aprender a programar en Solidity",
+    "resume": "Sigue esta completa guía para aprender a programar en Solidity, comprendiendo su sintáxis con ejemplos prácticos, librerías y estándares más populares 🚀💻",
+    "url": "https://leanlabiano.super.site/solidity-guides"
+  },
+  {
+    "slug": "ganar-dinero-extra-con-liquidity-pool-yield-farming",
     "author": "Ethereum Chile",
     "date": "20 de Abril de 2023",
     "id": "post5",
     "categories": ["Exchanges"],
     "title": "Ganar dinero extra con Liquidity Pooling y Yield Farming",
-    "resume": "Con estas alternativas al Staking en Ethereum podrás ahorrar y generar un poco de dinero extra sin mucho esfuerzo! En el siguiente post te explicamos las diferencias entre Liquidity Pooling y Yield Farming. Veremos un poco más en detalle en qué consiste cada una y dónde podemos empezar a ponerlas en práctica",
-    "url": "https://github.com/ethereumchile/ethereumchile/wiki/Ganar-dinero-extra-con-Liquidity-Pooling-y-Yield-Farming"
+    "resume": "Con estas alternativas al Staking en Ethereum podrás ahorrar y generar un poco de dinero extra sin mucho esfuerzo! En el siguiente post te explicamos las diferencias entre Liquidity Pool y Yield Farming. Veremos un poco más en detalle en qué consiste cada una y dónde podemos empezar a ponerlas en práctica",
+    "url": "https://github.com/ethereumchile/ethereumchile/wiki/Ganar-dinero-extra-con-Liquidity-Pool-y-Yield-Farming"
   },
   {
     "slug": "que-es-staking",
