@@ -1,5 +1,6 @@
 [
   {
+    "slug": "ganar-dinero-extra-con-liquidity-pooling-yield-farming",
     "author": "Ethereum Chile",
     "date": "20 de Abril de 2023",
     "id": "post5",
@@ -9,6 +10,7 @@
     "url": "https://github.com/ethereumchile/ethereumchile/wiki/Ganar-dinero-extra-con-Liquidity-Pooling-y-Yield-Farming"
   },
   {
+    "slug": "que-es-staking",
     "author": "Jesus S.",
     "date": "23 de Enero de 2023",
     "id": "post4",
@@ -18,6 +20,7 @@
     "url": "https://economia3.com/que-es-staking/"
   },
   {
+    "slug": "codigo-solidity-red-social-descentralizada",
     "author": "Javier Guajardo",
     "date": "16 de Abril de 2018",
     "id": "post2",
@@ -27,6 +30,7 @@
     "url": "https://github.com/ethereumchile/decentralized-social-network"
   },
   {
+    "slug": "aprender-solidity-con-ejemplos",
     "author": "Javier Guajardo",
     "date": "9 de Diciembre de 2021",
     "id": "post3",
@@ -36,6 +40,7 @@
     "url": "https://github.com/ethereumchile/learn-by-doing"
   },
   {
+    "slug": "comprar-ethereum-en-buda-com",
     "author": "Javier Guajardo",
     "date": "10 de Octubre de 2020",
     "id": "post1",
