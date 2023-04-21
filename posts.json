@@ -1,5 +1,15 @@
 [
   {
+		"slug": "aprende-a-programar-solidity-con-cryptozombies",
+		"author": "Javier Guajardo",
+		"date": "21 de Abril de 2023",
+		"id": "post6",
+		"categories": ["Solidity", "Blockchain", "Educación"],
+		"title": "Aprende a programar Solidity con CryptoZombies",
+		"resume": "¿Quieres aprender a programar contratos inteligentes en blockchain? 🤔 ¡CryptoZombies es una opción! 🧟‍♂️🧟‍♀️ Este tutorial interactivo te enseñará Solidity mientras diseñamos y desplegamos un juego de zombies. 🎮 ¡Atrévete a aprender mientras te diviertes! 😎 Puedes encontrar más información sobre CryptoZombies en el siguiente enlace 💻",
+		"url": "https://cryptozombies.io/"
+	},
+  {
     "slug": "guia-completa-programacion-solidity",
     "author": "Leandro Labiano",
     "date": "20 de Abril de 2023",
